@@ -1,0 +1,10 @@
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/sbf-solana-solana/release/deps/libthiserror-591865d29741748c.rmeta: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/sbf-solana-solana/release/deps/libthiserror-591865d29741748c.rlib: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/sbf-solana-solana/release/deps/thiserror-591865d29741748c.d: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs
+
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs:

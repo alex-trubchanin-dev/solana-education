@@ -1,0 +1,10 @@
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/sbf-solana-solana/release/deps/libgetrandom-26766dcbde418488.rmeta: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/sbf-solana-solana/release/deps/libgetrandom-26766dcbde418488.rlib: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/sbf-solana-solana/release/deps/getrandom-26766dcbde418488.d: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs:

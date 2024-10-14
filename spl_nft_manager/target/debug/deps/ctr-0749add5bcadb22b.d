@@ -1,0 +1,11 @@
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/debug/deps/libctr-0749add5bcadb22b.rmeta: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr128.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr32.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr64.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/debug/deps/libctr-0749add5bcadb22b.rlib: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr128.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr32.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr64.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/debug/deps/ctr-0749add5bcadb22b.d: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr128.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr32.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr64.rs
+
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/lib.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr128.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr32.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctr-0.8.0/src/flavors/ctr64.rs:

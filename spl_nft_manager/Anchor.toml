@@ -1,0 +1,18 @@
+[toolchain]
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+manager = "3Hj4o7AJE9MMKhukJma1dkDBmRs26Hzi8FZ7RfAoyYSm"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Devnet"
+wallet = "./secret.json"
+
+[workspace]
+members = ["programs/manager"]

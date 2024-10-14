@@ -1,0 +1,11 @@
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/debug/deps/libsha3-2fabef86951ec0a2.rmeta: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/debug/deps/libsha3-2fabef86951ec0a2.rlib: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs
+
+/Users/alextrubchanin/code/rust-test/spl_nft_manager/target/debug/deps/sha3-2fabef86951ec0a2.d: /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs /Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs
+
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs:
+/Users/alextrubchanin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs:
